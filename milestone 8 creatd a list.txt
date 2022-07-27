@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+background-image: linear-gradient(yellow,red);
+}
+ul.a {list-style-type: circle;}
+ul.b {list-style-type: square;}
+ol.c {list-style-type: numbers;}
+</style>
+</head>
+<body>
+
+<h1 style="text-align:center">TRAINING INSTITUE</h1>
+
+<h3>About Software Courses</h3>
+
+<ul class="a">
+  <li>Programming Courses</li>
+  <li>Accounting Courses</li>
+  <li>Database Courses</li>
+  <li>Advanced Courses</li>
+</ul>
+<p><b>Programming Courses:</b></p>
+<ul class="b">
+ 
+   <li>PYTHON</li>
+   <li>DOT NET</li>
+   <li>WEB DESGNING</li>
+   <li>C,C++</li>
+  <li>DATA STRUCTURES</li>
+  <li>JAVA</li>
+</ul>
+
+<p><b>Accounting Courses:</b></p>
+
+<ol class="c">
+ <li>MS OFFICE</li>
+  <li>ADVANCED EXCEL</li>
+  <li>TALLY</li>
+  <li>SAP FICO</li>
+</ol>
+<p><b>DataBase Courses:</b></p>
+
+<ol reversed>
+  <li>ORACLE</li>
+  <li>MICROSOFT SQL</li>
+ </ol>
+<p><b>Advanced Courses:</b></p>
+
+<ol start="15">
+  <li>DIGITAL MARKETING</li>
+  <li>DATA SCIENCE</li>
+  </ol>
+<dl>
+<dt><b>Traning Center:</b></dt>
+<dd>A place where undergo skills training for work.</dd>
+<dt><b>Course:</b></dt>
+<dd> The route or direction followed by training centers.</dd>
+</dl>
+<hr style="height:3px;color:black;background-color:black;border-width:0;">
+<p>Contact:9897969594,040-1234567</p>
+<p>Address:Shankar villas,road no:5,guntur</p>
+
+</body>
+</html>
